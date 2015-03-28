@@ -1,0 +1,37 @@
+# cool fish shortcut for list files
+ll
+
+# simple way to list files
+ls
+
+# redirect output into a file
+history > moving_around.txt
+
+# simple way to get home
+cd
+
+# easy way to read history of inputs
+history | less
+
+# great way to get info on commands
+man less
+
+# Make a directory
+mkdir
+
+repository is like a safe coat check - It lives in a hidden folder - repository is a group of files and changes - its a history over time.
+
+git init
+git add
+git status
+git commit    (changes id timestamp signiture message )
+
+log command shows circles
+status shows you staging area - square
+
+git ll
+git la
+
+
+
+
